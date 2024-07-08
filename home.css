@@ -83,7 +83,7 @@ img{
 }
 .content-container{
     width: 100%;
-    height: calc(100% - 200px);
+    height: 100%;
     display: flex;
     align-items: center;
     justify-content: center;
